@@ -4,5 +4,7 @@ Profesor
 Dani Gómez
 
 Alumnos
+Pau Graupera
+Nombre Apellido
 
 Pau Madorell
