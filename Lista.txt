@@ -4,7 +4,5 @@ Profesor
 Dani Gómez
 
 Alumnos
-Alumno1 Apellido1
-Alumno2 Apellido2
-Alumno3 Apellido3
+
 
